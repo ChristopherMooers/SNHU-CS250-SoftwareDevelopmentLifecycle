@@ -28,8 +28,8 @@ Being a good team member in software development means communicating clearly, st
 
 ## Final Project Artifacts
 
-- **Sprint Review & Retrospective:**  
+- **Sprint Review & Retrospective (Written Report):**  
   [Sprint-Review-Retrospective-CS250-MOOERS.docx](Sprint-Review-Retrospective/Sprint-Review-Retrospective-CS250-MOOERS.docx)
 
-- **Agile Presentation:**  
+- **Agile Presentation (Leadership Briefing):**  
   [Agile-Presentation-CS250-MOOERS.pptx](Sprint-Review-Retrospective/Agile-Presentation-CS250-MOOERS.pptx)
