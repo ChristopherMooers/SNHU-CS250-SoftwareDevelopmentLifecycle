@@ -25,3 +25,8 @@ I approach developing programs by breaking large problems into smaller, manageab
 
 ### Being a Good Team Member in Software Development
 Being a good team member in software development means communicating clearly, staying accountable, and being open to collaboration. This project highlighted how important it is to support teammates across different roles, ask questions when requirements are unclear, and adjust work based on feedback. Strong communication and teamwork ultimately lead to better outcomes for both the team and the final product.
+
+## Final Project Artifacts
+
+- Sprint Review & Retrospective: `Sprint-Review-Retrospective/CS 250 7-1 Final Project-MOOERS.docx`
+- Agile Presentation: `Agile-Presentation/CS 250 7-1 Final Project-MOOERS.pptx`
